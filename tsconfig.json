@@ -11,5 +11,5 @@
     "skipLibCheck": true,
     "target": "ESNext"
   },
-
+  "typeRoots": ["./src/types"],
 }

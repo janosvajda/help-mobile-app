@@ -3,6 +3,7 @@ import {
   TouchableOpacity
 } from 'react-native';
 import React, { useState } from 'react';
+import { APP_NAME } from "@env";
 
 export default function App() {
   const [email, setEmail] = useState('');
@@ -17,7 +18,7 @@ export default function App() {
         source={{ uri: 'https://github.com/janosvajda/help-mobile-app/blob/main/assets/icon.png' }}
         style={{ width: 40, height: 40 }}
       />
-      <Text style={styles.title}>!HƎlp!</Text>
+      <Text style={styles.title}>{APP_NAME}</Text>
       <View style={styles.inputView}>
         <TextInput
           style={styles.TextInput}
