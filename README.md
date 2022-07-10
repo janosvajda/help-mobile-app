@@ -1,5 +1,4 @@
-![alt text](https://github.com/janosvajda/help-mobile-app/blob/main/assets/icon.png)
-<img src="https://github.com/janosvajda/help-mobile-app/blob/main/assets/icon.png" width="128"/>
+<img src="https://github.com/janosvajda/help-mobile-app/blob/main/assets/icon.png" width="256"/>
 
 ## Description
 
