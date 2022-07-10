@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/janosvajda/help-mobile-app/blob/main/assets/icon.png" width="256"/>
+</p>
 
 ## Description
 
