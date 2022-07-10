@@ -1,6 +1,6 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-const storeSingleValue = async (value) => {
+export const storeSingleValue = async (value) => {
     try {
         await AsyncStorage.setItem('@storage_Key', value)
     } catch (e) {
@@ -14,7 +14,7 @@ const storeSingleValue = async (value) => {
     }
 }
 
-const storeObject = async (value) => {
+export const storeObject = async (value) => {
     try {
         const jsonValue = JSON.stringify(value)
         await AsyncStorage.setItem('@storage_Key', jsonValue)
