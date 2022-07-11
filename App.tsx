@@ -4,6 +4,7 @@ import {
 } from 'react-native';
 import React, { useState } from 'react';
 import { APP_NAME } from "@env";
+import QRCodeReader from './src/screens/QRCodeReader';
 
 export default function App() {
   const [email, setEmail] = useState('');
