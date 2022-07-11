@@ -1,0 +1,347 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> has 5 childs 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#73A9AD",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://github.com/janosvajda/help-mobile-app/blob/main/assets/icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 40,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "MMA Champ",
+        "fontSize": 36,
+        "fontWeight": "bold",
+        "marginBottom": "30%",
+      }
+    }
+  >
+    !Help
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#F8F9D7",
+        "borderRadius": 30,
+        "height": 45,
+        "marginBottom": 20,
+        "width": "70%",
+      }
+    }
+  >
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Email"
+      placeholderTextColor="#003f5c"
+      style={
+        Object {
+          "flex": 1,
+          "height": 50,
+          "marginLeft": 20,
+          "padding": 10,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#F8F9D7",
+        "borderRadius": 30,
+        "height": 45,
+        "marginBottom": 20,
+        "width": "70%",
+      }
+    }
+  >
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Password"
+      placeholderTextColor="#003f5c"
+      secureTextEntry={true}
+      style={
+        Object {
+          "flex": 1,
+          "height": 50,
+          "marginLeft": 20,
+          "padding": 10,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "margin": 4,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#C4D7E0",
+            "borderRadius": 12,
+            "height": 40,
+            "justifyContent": "center",
+            "opacity": 1,
+            "padding": 10,
+            "width": 160,
+          }
+        }
+      >
+        <Text>
+          Login
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "margin": 4,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#C4D7E0",
+            "borderRadius": 12,
+            "height": 40,
+            "justifyContent": "center",
+            "opacity": 1,
+            "padding": 10,
+            "width": 160,
+          }
+        }
+      >
+        <Text>
+          SignUp
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<App /> match snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#73A9AD",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://github.com/janosvajda/help-mobile-app/blob/main/assets/icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 40,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "MMA Champ",
+        "fontSize": 36,
+        "fontWeight": "bold",
+        "marginBottom": "30%",
+      }
+    }
+  >
+    !Help
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#F8F9D7",
+        "borderRadius": 30,
+        "height": 45,
+        "marginBottom": 20,
+        "width": "70%",
+      }
+    }
+  >
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Email"
+      placeholderTextColor="#003f5c"
+      style={
+        Object {
+          "flex": 1,
+          "height": 50,
+          "marginLeft": 20,
+          "padding": 10,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#F8F9D7",
+        "borderRadius": 30,
+        "height": 45,
+        "marginBottom": 20,
+        "width": "70%",
+      }
+    }
+  >
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Password"
+      placeholderTextColor="#003f5c"
+      secureTextEntry={true}
+      style={
+        Object {
+          "flex": 1,
+          "height": 50,
+          "marginLeft": 20,
+          "padding": 10,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "margin": 4,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#C4D7E0",
+            "borderRadius": 12,
+            "height": 40,
+            "justifyContent": "center",
+            "opacity": 1,
+            "padding": 10,
+            "width": 160,
+          }
+        }
+      >
+        <Text>
+          Login
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "margin": 4,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#C4D7E0",
+            "borderRadius": 12,
+            "height": 40,
+            "justifyContent": "center",
+            "opacity": 1,
+            "padding": 10,
+            "width": 160,
+          }
+        }
+      >
+        <Text>
+          SignUp
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
