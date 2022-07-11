@@ -4,7 +4,7 @@
 
 ## Description
 
-!HƎlp front-end
+!HƎlp front-end - React Native webapp, and iOS, Android app
 
 This repository is part of my !Help project:  https://miro.com/app/board/uXjVOnXji6E=/
 
